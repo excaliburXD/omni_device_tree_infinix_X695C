@@ -2,7 +2,7 @@
   {
     "remote": "excalibuXD",
     "repository": "twrp-device_transsion_mt6785-common",
-    "target_path": "device/transsion/mt6785-common",
+    "target_path": "device/transsion/mt6785-common"
     "branch": "twrp"
   }
 ]
